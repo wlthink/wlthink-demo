@@ -1,0 +1,14 @@
+{
+    "name": "wlthink/wlthink-demo",
+    "description": "composer demo",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "cxs",
+            "email": "wlthink@126.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
